@@ -25,7 +25,7 @@ SECRET_KEY = 'x^v@s=eg23zeu*vd4$$8dqgz_j@db7mt9=ay20)%dzbc7&*5-d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['puchki-blog-behlharsh.c9users.io']
+ALLOWED_HOSTS = ['puchki-blog-behlharsh.c9users.io','soumita018.pythonanywhere.com']
 
 
 # Application definition
